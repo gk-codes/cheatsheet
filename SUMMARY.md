@@ -17,4 +17,5 @@
 ## Tools
 
 * [Nmap](tools/nmap.md)
+* [msfvenom](tools/msfvenom.md)
 
