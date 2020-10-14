@@ -9,6 +9,7 @@
 ## Windows
 
 * [PowerShell Scripting](windows/untitled.md)
+* [Windows Privilege Escalation](windows/windows-privilege-escalation.md)
 
 ## Resources <a id="resources-1"></a>
 
