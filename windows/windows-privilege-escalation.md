@@ -72,7 +72,7 @@ PsExec tool from Windows Sysinternals: [https://docs.microsoft.com/en-us/sysinte
 Add low privileged user to the administrators group:
 
 ```text
-> net localgroup administrators <username> /add
+net localgroup administrators <username> /add
 ```
 
 
