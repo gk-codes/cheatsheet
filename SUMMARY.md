@@ -19,4 +19,6 @@
 
 * [Nmap](tools/nmap.md)
 * [msfvenom](tools/msfvenom.md)
+* [dirsearch](tools/dirsearch.md)
+* [Powerless](tools/powerless.md)
 
