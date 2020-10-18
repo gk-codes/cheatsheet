@@ -22,3 +22,14 @@ done < ${file}
 echo "Done."
 ```
 
+Extract all hyperlinks from all `<a href=""></a>` in an HTML file and store them in a file:
+
+```text
+grep -Eoi '<a [^>]+>' source.html |
+grep -Eo 'href="[^\"]+"' |
+grep -Eo '(http|https)://[^"]+' | 
+sort | uniq > links_unique.txt
+```
+
+
+
