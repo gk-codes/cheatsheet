@@ -4,6 +4,30 @@ description: Mostly Bash script snippets.
 
 # Bash Shell / Scripting
 
+Find all files writable by current user:
+
+```text
+find / -writable 2>/dev/null
+```
+
+Spawn a Bash shell with Python:
+
+```text
+python -c 'import pty; pty.spawn("/bin/bash")'
+```
+
+Print current shell:
+
+```text
+ps -p $$
+```
+
+List `root` processes:
+
+```text
+
+```
+
 Add user `ftpuser`, add it to the group `ftpgroup`, no home directory, no shell:
 
 ```text
