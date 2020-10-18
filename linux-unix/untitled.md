@@ -1,4 +1,14 @@
-# Bash Scripting
+---
+description: Mostly Bash script snippets.
+---
+
+# Bash Shell / Scripting
+
+Add user `ftpuser`, add it to the group `ftpgroup`, no home directory, no shell:
+
+```text
+useradd -g ftpgroup -d /dev/null -s /usr/sbin/nologin ftpuser
+```
 
 Iterate through files and print each line:
 

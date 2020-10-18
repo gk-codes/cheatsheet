@@ -4,7 +4,7 @@
 
 #### winPEAS
 
-{% embed url="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS" %}
+* Windows Privilege Escalation Awesome Scripts - [https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
 
 For color-coded output, add a registry key and reopen the command prompt:
 

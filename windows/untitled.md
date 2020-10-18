@@ -1,8 +1,10 @@
 # PowerShell Scripting
 
-Start a new PowerShell instance with ExecutionPolicy set to Bypass:
+Set `ExecutionPolicy` to Bypass:
 
 ```text
-powershell.exe -exec bypass
+Set-ExecutionPolicy -Bypass
 ```
+
+
 
