@@ -1,5 +1,15 @@
 # Links
 
+### Best for Exam
+
+* Hacktricks - [https://book.hacktricks.xyz/](https://book.hacktricks.xyz/)
+* PayloadsAllTheThings - [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* Buffer Overflow Guide - [https://catharsis.net.au/blog/basic-buffer-overflow-guide/](https://catharsis.net.au/blog/basic-buffer-overflow-guide/)
+
+### DigitalOcean Kali VPS Setup Guides
+
+* My OSCP 2020 Journey from the Cloud - [https://medium.com/@.x\_x./my-oscp-2020-journey-from-the-cloud-b47510806bb7](https://medium.com/@.x_x./my-oscp-2020-journey-from-the-cloud-b47510806bb7)
+* 
 ### Articles & How Tos
 
 * OSCP: Developing a Methodology - [https://medium.com/@falconspy/oscp-developing-a-methodology-32f4ab471fd6](https://medium.com/@falconspy/oscp-developing-a-methodology-32f4ab471fd6)
@@ -10,5 +20,6 @@
 
 ### Tools
 
+* 
 
 
