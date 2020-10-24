@@ -6,11 +6,12 @@
 * PayloadsAllTheThings - [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * Buffer Overflow Guide - [https://catharsis.net.au/blog/basic-buffer-overflow-guide/](https://catharsis.net.au/blog/basic-buffer-overflow-guide/)
 * OSCP Cheatsheet - [https://github.com/CountablyInfinite/oscp\_cheatsheet](https://github.com/CountablyInfinite/oscp_cheatsheet)
+* OSCP Goldmine - [http://0xc0ffee.io/blog/OSCP-Goldmine](http://0xc0ffee.io/blog/OSCP-Goldmine)
 
 ### DigitalOcean Kali VPS Setup Guides
 
 * My OSCP 2020 Journey from the Cloud - [https://medium.com/@.x\_x./my-oscp-2020-journey-from-the-cloud-b47510806bb7](https://medium.com/@.x_x./my-oscp-2020-journey-from-the-cloud-b47510806bb7)
-* 
+
 ### Articles & How Tos
 
 * OSCP: Developing a Methodology - [https://medium.com/@falconspy/oscp-developing-a-methodology-32f4ab471fd6](https://medium.com/@falconspy/oscp-developing-a-methodology-32f4ab471fd6)
@@ -30,12 +31,16 @@
 * linPEAS
 * lsh.sh \(Linux Smart Enumeration\)
 
+### Online Tools
+
+* [JavaScript Decompressor](http://dean.edwards.name/unpacker/)
+
 ## To review
 
-* [http://0xc0ffee.io/blog/OSCP-Goldmine](http://0xc0ffee.io/blog/OSCP-Goldmine)
-* [http://beej.us/guide/bgnet/html/](http://beej.us/guide/bgnet/html/)
-* [http://ctfs.me/](http://ctfs.me/)
-* [http://dean.edwards.name/unpacker/](http://dean.edwards.name/unpacker/)
+* Beej's Guide to Network Programming - [http://beej.us/guide/bgnet/html](http://beej.us/guide/bgnet/html/)
+
+
+
 * [http://fruitywifi.com/index\_eng.html](http://fruitywifi.com/index_eng.html)
 * [http://linuxcommand.org/tlcl.php](http://linuxcommand.org/tlcl.php)
 * [http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
